@@ -1,4 +1,4 @@
-# CODSOFT_Python_Internship
+# CODSOFT Internship: Python Programming & Macine Learning
 
 **Description:**
 
